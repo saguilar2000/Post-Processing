@@ -1,0 +1,9 @@
+-n ./networks/react_CO_standard_dust
+-useTabs
+-useCustomCoe=myCoe(:)
+-project=dust
+-noSinkCheck 
+-noRecCheck
+#-noExample #only activate it when you need a test and a make files
+-compact
+-useX
